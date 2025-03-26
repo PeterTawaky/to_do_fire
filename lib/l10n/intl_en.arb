@@ -1,0 +1,37 @@
+{
+    "checkYourEmail":"go check your email",
+    "writeEmailFirst":"Please Write your Email First",
+    "fillYourDataFirst":"Fill the your data first",
+    "YourPasswordIsWrong":"Your password is wrong",
+    "deleteMsg":"are you sure you want to delete this folder",
+
+    "greeting":"Welcome back,",
+    "purpose":"Discover Limitless Choices and unmatched Convenience.",
+    "Email":"E-Mail",
+    "password":"Password",
+    "rememberOption":"Remember Me",
+    "forgetPassword":"Forget Password",
+    "signIn":"Sign In",
+    "createAccount":"Create Account",
+    "anotherMethodsForSignIn":"Or Sign In With",
+
+    "letsCreateYourAccount":"Let's create your account",
+    "firstName":"First Name",
+    "lastName":"Last Name",
+    "userName":"Username",
+    "phoneNumber":"Phone Number",
+    "iAgreeTo":"I agree to",
+    "privacyPolicy":"Privacy Policy",
+    "and":"and",
+    "termsOfUse":"Terms of use",
+
+    "homePage":"Home Page",
+    "home":"Home",
+    "company":"Company",
+
+    "addCategory":"Add Category",
+    "enterAName":"enter a name",
+    "Add":"Add"
+
+
+}

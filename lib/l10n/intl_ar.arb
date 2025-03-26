@@ -1,0 +1,36 @@
+{
+    "writeEmailFirst":"من فضلك قم بكتابة بريدك الإلكتروني أولا",
+    "checkYourEmail":"تفقد بريدك الإلكتروني",
+    "fillYourDataFirst":"قم بملئ البيانات أولا",
+    "YourPasswordIsWrong":"كلمة المرور غير صحيحة",
+    "deleteMsg":"هل أنت متأكد من أنك ترغب في مسح هذا المجلد",
+
+    "greeting":"مرحبا بك",
+    "purpose":"اكتشف خيارات لا حدود لها وراحة لا مثيل لها",
+    "Email":"البريد الإلكتروني",
+    "password":"كلمة السر",
+    "rememberOption":"تذكرني",
+    "forgetPassword":"هل نسيت كلمة السر",
+    "signIn":"تسجيل الدخول",
+    "createAccount":"إنشاء حساب",
+    "anotherMethodsForSignIn":"أو قم بتسجيل الدخول باستخدام",
+
+
+    "letsCreateYourAccount": "لنقم بإنشاء حسابك",
+    "firstName": "الاسم الأول",
+    "lastName": "الاسم الأخير",
+    "userName": "اسم المستخدم",
+    "phoneNumber": "رقم الهاتف",
+    "iAgreeTo": "أوافق على",
+    "privacyPolicy": "سياسة الخصوصية",
+    "and": "و",
+    "termsOfUse": "شروط الاستخدام",
+
+    "homePage":"الصفحة الرئيسية",
+    "home":"الرئيسية",
+    "company":"الشركة",
+
+    "addCategory":"إضافة فئة",
+    "enterAName":"أدخل اسمًا",
+    "Add":"إضافة"
+}

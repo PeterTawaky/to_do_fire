@@ -1,0 +1,6 @@
+
+.icon-user:before { content: '\e800'; } /* '' */
+.icon-send-message:before { content: '\e801'; } /* '' */
+.icon-telephone:before { content: '\e802'; } /* '' */
+.icon-reset-password:before { content: '\e803'; } /* '' */
+.icon-email:before { content: '\e804'; } /* '' */
